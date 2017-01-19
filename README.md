@@ -3,10 +3,10 @@ video riot
 
 by [Scott Draves](http://ScottDraves.com), 2012, NYC
 
-published in Google's [Chrome Experiments](https://www.chromeexperiments.com/experiment/the-paikilizer),
+Published in Google's [Chrome Experiments](https://www.chromeexperiments.com/experiment/the-paikilizer),
 and then licensed to Skrillex, Diplo, Grimes, Pretty Lights etc for their 2012 summer tour web site the *Full Flex Express*.
 
-thanks to [Alexander Chen](http://chenalexander.com) and
+Thanks to [Alexander Chen](http://chenalexander.com) and
 [Josh Goldberg](http://www.goldbergs.com/) for their ideas an inspiration.
 
 The effect is based on video feedback implemented with WebGL and its
